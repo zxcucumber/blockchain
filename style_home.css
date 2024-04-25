@@ -1,0 +1,12 @@
+.sendMoney {
+    display: none;
+}
+.sendMoney1 {
+    display: flex;
+}
+.getMoney {
+    display: none;
+}
+.getMoney1 {
+    display: flex;
+}
